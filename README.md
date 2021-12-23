@@ -3,4 +3,3 @@ This repository shows how to use pycbc package to generate gravitational wave da
 
 The full datasets used in this code is placed in my kaggle account (https://www.kaggle.com/jhihronglu/testdata).
 
-This is a test.
